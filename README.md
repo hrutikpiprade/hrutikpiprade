@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hrutikpiprade   
 <p align="left">
-  <a href="https://www.linkedin.com/in/hrutikpiprade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hrutik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/pipradehrutik" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank" alt="Hackerrank" /></a>
   <a href="https://leetcode.com/pipradehrutik/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode" alt="LeetCode" /></a>
   <img src="https://komarev.com/ghpvc/?username=hrutikpiprade&label=Profile%20views&color=0e75b6&style=flat" alt="hrutikpiprade" align="right" />
@@ -71,5 +71,5 @@ Check out the project [here](https://github.com/ShreePustakam/OnlineBookStoreMan
 
 You can reach out to me through the following channels:
 
-- LinkedIn: [Hrutik Piprade](https://www.linkedin.com/in/hrutikpiprade/)
+- LinkedIn: [Hrutik Piprade](https://www.linkedin.com/in/hrutik/)
 - Email: pipradehrutik@gmail.com 
